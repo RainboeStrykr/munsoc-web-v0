@@ -1,1 +1,1 @@
-# trial-v1
+# SRM MUN Society
