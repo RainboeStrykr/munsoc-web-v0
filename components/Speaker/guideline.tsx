@@ -138,7 +138,7 @@ function Guidelines({ talkDeadLine, virtual, name, cfp }: GuidelinesProps) {
         <div className="flex items-center justify-center text-center mt-20">
           {cfp && (
             <a
-              href={name === 'online' ? '/venue/online/register' : cfp}
+              href={name === 'online' ? '/Committee/online/register' : cfp}
               target={name == 'Online' ? '' : '_blank'}
               rel="noreferrer"
             >

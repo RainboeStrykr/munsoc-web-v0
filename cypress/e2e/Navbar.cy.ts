@@ -2,8 +2,8 @@ import navData from '../../config/links.json';
 import speakers from '../../config/speakers.json';
 import { LinkItem } from '../../types/types';
 
-let venueData = (navData as LinkItem[]).filter((idx) => {
-  return idx.title == 'Venue';
+let CommitteeData = (navData as LinkItem[]).filter((idx) => {
+  return idx.title == 'Committee';
 });
 let resourcesData = (navData as LinkItem[]).filter((idx) => {
   return idx.title == 'Resources Hub';
@@ -55,10 +55,10 @@ describe('Navbar links', () => {
     cy.url().should('eq', 'http://localhost:3000/#tickets');
   });
 
-  it('should redirect to venues', () => {
-    let data = venueData[0]?.subMenu;
+  it('should redirect to Committees', () => {
+    let data = CommitteeData[0]?.subMenu;
     cy.wrap(data).each((val: LinkItem, idx) => {
-      cy.getTestData('nav-Venue').trigger('mouseover');
+      cy.getTestData('nav-Committee').trigger('mouseover');
       cy.getTestData(`nav-sub-${val.title}`).click();
       cy.url().should('eq', `http://localhost:3000${val.ref}`);
     });
@@ -134,13 +134,13 @@ describe('Navbar links', () => {
     cy.url().should('eq', 'http://localhost:3000/#tickets');
   });
 
-  it('should redirect to venues mobile view', () => {
+  it('should redirect to Committees mobile view', () => {
     cy.viewport(700, 800);
 
-    let data = venueData[0].subMenu;
+    let data = CommitteeData[0].subMenu;
     cy.wrap(data).each((val: LinkItem, idx) => {
       cy.getTestData('nav-Hamberger').click();
-      cy.getTestData('nav-Venue').click();
+      cy.getTestData('nav-Committee').click();
       cy.getTestData(`nav-sub-${val.title}`).click();
       cy.url().should('eq', `http://localhost:3000${val.ref}`);
     });

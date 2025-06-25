@@ -5,15 +5,15 @@ import Image from 'next/image';
 import { City, ConferenceStatus } from '../../types/types';
 import { getEventStatus } from '../../utils/status';
 
-interface IVenue {
+interface ICommittee {
   city: City;
 }
 
-function Venue({ city }: IVenue) {
+function Committee({ city }: ICommittee) {
   const eventStatus = getEventStatus(city.date);
 
   return (
-    <Link href={`/venue/${city.name}`}>
+    <Link href={`/Committee/${city.name}`}>
       <div
         style={{
           background: `linear-gradient(to bottom, rgba(0,0,0,.3), rgba(0,0,0, .3)), url(${city.img})`,
@@ -74,4 +74,4 @@ function Venue({ city }: IVenue) {
   );
 }
 
-export default Venue;
+export default Committee;
