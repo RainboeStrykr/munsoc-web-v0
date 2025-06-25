@@ -1,156 +1,157 @@
 [
-  {
-    "name": "Singapore",
-    "country": "Singapore",
-    "date": "16 April, 2025",
-    "cfpDate": "24 February, 2025",
-    "description": "Let’s talk event-driven architecture at the AsyncAPI Conference in Singapore! Join the open-source community and learn how to speak fluent API.",
-    "img": "/img/locations/singapore.webp",
-    "address": "Marina Bay Sands, Singapore",
-    "mapUrl": "https://maps.app.goo.gl/9fG91E7Y24zmWSqP9",
-    "sponsors": {
-      "eventSponsors": [
-        {
-          "image": "/img/logos/apidays.png",
-          "websiteUrl": "https://www.apidays.global/"
-        }
-      ]
-    },
-    "freeEntry": true,
-    "cfp": null,
-    "recordings": null,
-    "playlist": null
-  },
-  {
-    "name": "Munich",
-    "country": "Germany",
-    "date": "2 - 3 July, 2025",
-    "cfpDate": "11 May 2025",
-    "description": "Dive into event-driven architecture at the AsyncAPI Conference in Munich. Let’s build the future of messaging together!",
-    "img": "/img/locations/munich.webp",
-    "address": "Smartvillage Bogenhausen, München, Germany",
-    "mapUrl": "https://maps.app.goo.gl/xUCnXb11sSJTECV5A",
-    "sponsors": {
-      "eventSponsors": [
-        {
-          "image": "/img/logos/apidays.png",
-          "websiteUrl": "https://www.apidays.global/"
-        }
-      ]
-    },
-    "freeEntry": true,
-    "cfp": null,
-    "recordings": null,
-    "playlist": null
-  },
-  {
-    "name": "Lagos",
-    "country": "Nigeria",
-    "date": "18 - 19 July, 2025",
-    "cfpDate": "17 May 2025",
-    "description": "Naija, level up your event-driven architecture skills at AsyncAPI Conference Lagos",
-    "img": "/img/locations/lagos.webp",
-    "address": "The Zone Gbagada",
-    "mapUrl": "https://maps.app.goo.gl/Ws7QXSZg9L8euG8p8",
-    "sponsors": {
-      "eventSponsors": [
-        {
-          "image": "/img/logos/APICONF-LOGO-White.png",
-          "websiteUrl": "https://apiconf.net/"
-        }
-      ]
-    },
-    "freeEntry": true,
-    "cfp": null,
-    "recordings": null,
-    "playlist": null
-  },
-  {
-    "name": "London",
-    "country": "UK",
-    "date": "22 - 24 September, 2025",
-    "cfpDate": "13 July 2025",
-    "description": "API enthusiasts in London! Join the AsyncAPI Conference for deep dives into event-driven architecture and open-source collaboration.",
-    "img": "/img/locations/london.webp",
-    "address": "155 Bishopsgate, London EC2M 3YD",
-    "mapUrl": "https://maps.app.goo.gl/b2Vb5H2mM41F9nQA6",
-    "sponsors": {
-      "eventSponsors": [
-        {
-          "image": "/img/logos/apidays.png",
-          "websiteUrl": "https://www.apidays.global/"
-        }
-      ]
-    },
-    "freeEntry": true,
-    "cfp": "https://apidays.typeform.com/to/ILJeAaV8?typeform-source=www.apidays.global#event_name=xxxxx",
-    "recordings": null,
-    "playlist": null
-  },
-  {
-    "name": "Bangalore",
-    "country": "India",
-    "date": "8 - 9 October, 2025",
-    "cfpDate": "29 June 2025",
-    "description": "Hey Bangalore! Join the AsyncAPI Conference for deep dives into event-driven architecture and open-source.",
-    "img": "/img/locations/bangalore.webp",
-    "address": "The Chancery Pavilion, Bangalore",
-    "mapUrl": "https://maps.app.goo.gl/ANeaUDVVHKeEzLkv7",
-    "sponsors": {
-      "eventSponsors": [
-        {
-          "image": "/img/logos/apidays.png",
-          "websiteUrl": "https://www.apidays.global/"
-        }
-      ]
-    },
-    "freeEntry": true,
-    "cfp": "https://confengine.com/conferences/apidays-india-2025",
-    "recordings": null,
-    "playlist": null
-  },
-  {
-    "name": "Online",
-    "country": " Edition",
-    "date": "29 October, 2025",
-    "cfpDate": "7th September, 2025",
-    "description": "Join us for the AsyncAPI Online Conference Edition as the community unites across the globe to share experiences, collaborate, and foster meaningful connections.",
-    "img": "/img/locations/testMic.webp",
-    "address": "AsyncAPI YouTube Channel",
-    "mapUrl": "https://www.youtube.com/@AsyncAPI",
-    "sponsors": {
-      "eventSponsors": [
-        {
-          "image": "/img/logos/asyncapi-logo--white.png",
-          "websiteUrl": "https://asyncapi.com"
-        }
-      ]
-    },
-    "freeEntry": true,
-    "cfp": "/venue/online/register",
-    "recordings": null,
-    "playlist": null
-  },
-  {
-    "name": "Paris",
-    "country": "France",
-    "date": "9 - 11 December, 2025",
-    "cfpDate": "5 October 2025",
-    "description": "Join us at apidays Paris for the AsyncAPI Conference and explore event-driven architecture with the global open-source community",
-    "img": "/img/locations/paris.webp",
-    "address": "CNIT (Centre des Nouvelles Industries et Technologies), Paris 2 Place de la Défense, 92092 Puteaux",
-    "mapUrl": "https://maps.app.goo.gl/5te8WRM9Rb8B6vNd9",
-    "sponsors": {
-      "eventSponsors": [
-        {
-          "image": "/img/logos/apidays.png",
-          "websiteUrl": "https://www.apidays.global/"
-        }
-      ]
-    },
-    "freeEntry": true,
-    "cfp": "https://apidays.typeform.com/to/ILJeAaV8?typeform-source=www.apidays.global#event_name=xxxxx",
-    "recordings": null,
-    "playlist": null
-  }
+	
+	{
+		"name": "IP",
+		"country": "International Press Corps",
+		"date": "25, 26 & 27 October 2025",
+		"cfpdate":"24 February, 2025",
+		"description": "Journalism is the lens that sharpens shadows into stark truths. In the shifting landscape of global power, International Press serves as a sentinel of accountability, illuminating diplomatic complexities and ensuring governments answer to the people.",
+		"img": "https://images.squarespace-cdn.com/content/v1/610c60242d9ef15f1ce4bb7a/aea1ebab-61c3-4e47-b786-b342c87855ca/IPC.jpg",
+		"address": "AGENDA: Reporting and Photojournalism",
+		"map": "https://www.instagram.com/p/C_f0TVytDYt/",
+		"sponsors": {
+			"eventSponsors" : [{
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
+			
+		},
+		"isFree": true,
+		"ended": false,
+		"cfp": false,
+		"recordings":"",
+		"playlist":""
+	},
+	{
+		"name": "AIPPM",
+		"country": "All India Political Parties Meet",
+		"date": "25, 26 & 27 October 2025",
+		"cfpdate":"11 May 2025",
+		"description": "As a pivotal simulation of India's national political discourse, the AIPPM Committee provides a platform for representing and debating the diverse perspectives of political parties across the nation.",
+		"img": "https://media.assettype.com/newindianexpress%2F2024-07%2F7e716013-0961-46dd-804c-f85ef9a658d1%2FLok_Sabha_PTI.jpg",
+		"address": "AGENDA: Deliberating on the current reservation policy of India and the need to reassess it in light of the current socio-economic realities.",
+		"map": "https://www.instagram.com/p/DAYkGooSRR2/",
+		"sponsors": {
+			"eventSponsors" : [{
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
+			
+		},
+		"cfp": false,
+		"isFree": true,
+		"ended": false,
+		"recordings":"",
+		"playlist":""
+	},
+	{
+		"name": "TNSM",
+		"country": "Tamil Nadu Stakeholders' Meeting",
+		"date": "25, 26 & 27 October 2025",
+		"cfpdate":"17 May 2025",
+		"description": "Introducing the Tamil Nadu Stakeholder's Meet (TNSM), a committee where visionary minds converge to discuss the most pressing issues impacting the state's growth and sustainability. ",
+		"img": "https://www.hindustantimes.com/ht-img/img/2025/03/17/1600x900/The-ongoing-Tamil-Nadu-Legislative-Assembly-Sessio_1742238664098.jpg",
+		"address": "AGENDA: Reviewing public health concerns in Tamil Nadu with reference to increasing alcoholism and substance abuse",
+		"map": "https://www.instagram.com/p/DAYdDVUyTfx/",
+		"sponsors": {
+			"eventSponsors" : [{
+					"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
+			
+		},
+		"cfp": false,
+		"isFree": true,
+		"ended": false,
+		"recordings":"",
+		"playlist":""
+	},	
+	{
+		"name": "UNSC",
+		"country": "United Nations Security Council",
+		"date": "25, 26 & 27 October 2025",
+		"cfpdate":"13 July 2025",
+		"description": "The simulation of UNSC offers a unique chance to navigate the intricacies of global diplomacy. Delegates will address threats to peace, protect human rights, and seek resolutions to hostilities.",
+		"img": "https://static.theprint.in/wp-content/uploads/2020/04/UNSC.jpg",
+		"address": "AGENDA: Situation in Afghanistan, December 1979",
+		"map": "https://www.instagram.com/p/DAYZrvgycy-/",
+		"sponsors": {
+			"eventSponsors" : [{
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
+			
+		},
+		"cfp": false,
+		"isFree": true,
+		"ended": false,
+		"recordings":"",
+		"playlist":""
+	},
+	{
+		"name": "UNGA",
+		"country": "United Nations General Assembly",
+		"date": "25, 26 & 27 October 2025",
+		"cfpdate":"29 June 2025",
+		"description": "As the core of the UN, the UNGA empowers the voice of every nation's voice to resonate within the halls of international influence.",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg",
+		"address": "AGENDA: Responsibility to Protext (2005 World Summit)",
+		"map": "https://www.instagram.com/p/DAV0zxGSGJk/",
+		"sponsors": {
+			"eventSponsors" : [{
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
+			
+		},
+		"cfp": false,
+		"isFree": true,
+		"ended": false,
+		"recordings":"",
+		"playlist":""
+	},
+	{
+		"name": "ECOSOC",
+		"country": "Economic and Social Council",
+		"date": "25, 26 & 27 October 2025",
+		"cfpdate":"7th September, 2025",
+		"description": "Established in 1945, ECOSOC has been a pioneer in addressing the most pressing global challenges. Here, nations unite to propel economic growth, refine macroeconomic policies, and tackle the complexities of global finance.",
+		"img": "https://www.un.org/dppa/decolonization/sites/www.un.org.dppa.decolonization/files/ecosoc_opens_2017_operational_activities_segment_un_photo_e._debebe_28022017_cropped.jpg",
+		"address": "AGENDA: Socio-economic deprivation and persecution of refugees",
+		"map": "https://www.instagram.com/p/DAV7q8jScBk/",
+		"sponsors": {
+			"eventSponsors" : [{
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
+			
+		},
+		"cfp": false,
+		"isFree": true,
+		"ended": false,
+		"recordings": "",
+        "playlist": ""
+
+	},
+	{
+		"name": "UNHRC",
+		"country": "United Nations Human Rights Council",
+		"date": "25, 26 & 27 October 2025",
+		"cfpdate":"5 October 2025",
+		"description": "In the pursuit of justice and human dignity, the UN Human Rights Council (UNHRC) stands as a steadfast advocate, ensuring that every voice is heard and every right is upheld. ",
+		"img": "https://gnhre.org/wp-content/uploads/2021/10/Aunhrc-1530966414257.jpeg",
+		"address": "AGENDA: Implementing the Universal Periodic Review recommendations with emphasis on cooperation and capacity building",
+		"map": "https://www.instagram.com/p/DAV4O7CS5Ss/",
+		"sponsors": {
+			"eventSponsors" : [{
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
+			
+		},
+		"isFree": true,
+		"cfp": false,
+		"ended": false
+	}
+	
 ]
