@@ -1,4 +1,3 @@
-import React from 'react';
 import { Linkedin } from 'lucide-react';
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url(media/black-background.png)`,
+          backgroundImage: `url(/media/black-background.jpg)`,
         }}
       >
         <div className="absolute inset-0 bg-black/60"></div>
@@ -20,7 +19,7 @@ function App() {
         <div className="text-center mb-8">
           <div className="w-32 h-20 mx-auto mb-4 overflow-hidden">
             <img 
-              src="media/symbol-white.png"
+              src="/media/symbol-white.png"
               alt="SRM MUN 2025"
               className="w-full h-full object-contain"
             />
@@ -55,7 +54,7 @@ function App() {
             <div className="flex items-center gap-4">
               <div className="w-16 h-16 rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 flex-shrink-0">
                 <img 
-                  src="media/symbol-white.png"
+                  src="/media/symbol-white.png"
                   alt="code"
                   className="w-full h-full object-cover"
                 />
@@ -74,7 +73,7 @@ function App() {
             <div className="flex items-center gap-4">
               <div className="w-16 h-16 rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 flex-shrink-0">
                 <img 
-                  src="media/domain-guide-logo.png"
+                  src="/media/domain-guide-logo.png"
                   alt="code"
                   className="w-full h-full object-cover"
                 />
@@ -93,7 +92,7 @@ function App() {
             <div className="flex items-center gap-4">
               <div className="w-16 h-16 rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 flex-shrink-0">
                 <img 
-                  src="media/delegation-logo.jpg"
+                  src="/media/delegation-logo.jpg"
                   alt="code"
                   className="w-full h-full object-cover"
                 />
