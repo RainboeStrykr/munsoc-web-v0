@@ -49,7 +49,7 @@ function App() {
         <div className="space-y-4">
 
           {/* LINK 1 */}
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEQIzcsuy0b6npuT-tyMsEZkoUKb-Rl9dUZaIkxGvSHeODnw/viewform?usp=sharing&ouid=108916131470537072273" className="flex items-center gap-4">
+          <a href="https://forms.gle/qBZ86foXHvrVooA37" className="flex items-center gap-4">
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/20 hover:bg-white/15 transition-all duration-300 cursor-pointer group">
             <div className="flex items-center gap-4">
               <div className="w-16 h-16 rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 flex-shrink-0">
@@ -60,46 +60,46 @@ function App() {
                 />
               </div>
               <div className="flex-1">
-                <h3 className="font-semibold text-lg mb-1">Recruitments Open</h3>
-                <p className="text-gray-300 text-sm">Be a part of the organizing committee for SRM MUN 2025</p>
+                <h3 className="font-semibold text-lg mb-1">SRM MUN 2025 - Priority Registrations Open</h3>
+                <p className="text-gray-300 text-sm">Be a part of SRM MUN 2025</p>
               </div>
             </div>
           </div>
           </a>
 
           {/* LINK 2 */}
-          <a href="https://www.instagram.com/p/DNN3MLbh5AT/?img_index=1" className="flex items-center gap-4">
+          <a href="https://docs.google.com/spreadsheets/d/1C-cVkQC2JXNBHE0KUEbJCWTpAnZSHtLIaquVn_UJfu8/edit?usp=sharing" className="flex items-center gap-4">
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/20 hover:bg-white/15 transition-all duration-300 cursor-pointer group">
             <div className="flex items-center gap-4">
               <div className="w-16 h-16 rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 flex-shrink-0">
                 <img 
-                  src="/media/domain-guide-logo.png"
+                  src="/media/un.png"
                   alt="code"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="flex-1">
-                <h3 className="font-semibold text-lg mb-1">Domain Guide</h3>
-                <p className="text-gray-300 text-sm">Get to know about the domains we have in store for you!</p>
+                <h3 className="font-semibold text-lg mb-1">Country Matrix 2025</h3>
+                <p className="text-gray-300 text-sm">Get to know about the portfolios we have in store for you!</p>
               </div>
             </div>
           </div>
           </a>
 
           {/* LINK 3 */}
-          <a href="https://chat.whatsapp.com/E3QCqwsKrSCD4YIV9SnUNZ" className="flex items-center gap-4">
+          <a href="https://maps.app.goo.gl/jWCfennjhaiCBKV36" className="flex items-center gap-4">
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 border border-white/20 hover:bg-white/15 transition-all duration-300 cursor-pointer group">
             <div className="flex items-center gap-4">
               <div className="w-16 h-16 rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 flex-shrink-0">
                 <img 
-                  src="/media/delegation-logo.jpg"
+                  src="/media/srmist.jpeg"
                   alt="code"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="flex-1">
-                <h3 className="font-semibold text-lg mb-1">Join the Delegation WhatsApp Group</h3>
-                <p className="text-gray-300 text-sm">Get all the updates about the MUNs we go to as a delegation!</p>
+                <h3 className="font-semibold text-lg mb-1">Location Map</h3>
+                <p className="text-gray-300 text-sm">SRM University, Chennai - Venue for SRM MUN 2025</p>
               </div>
             </div>
           </div>
